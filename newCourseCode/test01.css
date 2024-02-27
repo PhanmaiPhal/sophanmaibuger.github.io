@@ -1,0 +1,1056 @@
+body {
+    width: 100%;
+}
+
+.home-page {
+    background: #ffffff;
+    width: 100%;
+    height: 2395px;
+    position: relative;
+    overflow: hidden;
+}
+
+.navbar {
+    width: 100%px;
+    height: 100px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+.rectangle-1 {
+    width: 1924px;
+    height: 680px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+.frame-1 {
+    width: 1882px;
+    height: 152px;
+    position: absolute;
+    left: 31px;
+    top: 28px;
+    overflow: hidden;
+}
+
+.burger-king {
+    color: var(--text, #997063);
+    text-align: left;
+    font-family: "Inter-Black", sans-serif;
+    font-size: 36px;
+    font-weight: 900;
+    position: absolute;
+    left: 112px;
+    top: 48px;
+}
+
+.home {
+    width: 90px;
+    height: 39px;
+    position: absolute;
+    left: 378px;
+    top: 47px;
+}
+
+.menu {
+    width: 90px;
+    height: 39px;
+    position: absolute;
+    left: 549px;
+    top: 49px;
+}
+
+.delivery {
+    width: 90px;
+    height: 39px;
+    position: absolute;
+    left: 717px;
+    top: 50px;
+}
+
+.search {
+    width: 403px;
+    height: 47px;
+    position: absolute;
+    left: 1142px;
+    top: 58px;
+}
+
+.rectangle-3 {
+    background: rgba(217, 217, 217, 0.6);
+    border-radius: 10px;
+    width: 403px;
+    height: 47px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+.search2 {
+    color: var(--text, #997063);
+    /* text-align: left; */
+    font-family: "Inter-Black", sans-serif;
+    font-size: 20px;
+    font-weight: 900;
+    position: absolute;
+    left: 23px;
+    top: 9px;
+}
+
+.vector {
+    height: auto;
+    position: absolute;
+    right: 3.97%;
+    left: 89.83%;
+    width: 6.2%;
+    bottom: 25.53%;
+    top: 23.4%;
+    height: 51.06%;
+    overflow: visible;
+}
+
+.location {
+    width: 106px;
+    height: 46px;
+    position: absolute;
+    left: 1696px;
+    top: 58px;
+}
+
+.group {
+    height: auto;
+    position: absolute;
+    right: 36.67%;
+    left: 36.67%;
+    width: 26.67%;
+    bottom: 0%;
+    top: 15.38%;
+    height: 84.62%;
+    overflow: visible;
+}
+
+.fuverite {
+    width: 90px;
+    height: 39px;
+    position: absolute;
+    left: 1592px;
+    top: 64px;
+    overflow: visible;
+}
+
+.menu2 {
+    width: 90px;
+    height: 39px;
+    position: absolute;
+    left: 920px;
+    top: 50px;
+}
+
+.menu3 {
+    color: var(--text, #997063);
+    text-align: left;
+    font-family: "Inter-Black", sans-serif;
+    font-size: 32px;
+    font-weight: 900;
+    position: absolute;
+    right: -1.11%;
+    left: 0%;
+    width: 101.11%;
+    bottom: 0%;
+    top: 0%;
+    height: 100%;
+    text-decoration: none;
+}
+
+.delivery2 {
+    width: 90px;
+    height: 39px;
+    position: absolute;
+    left: 667px;
+    top: 50px;
+}
+
+.delivery3 {
+    color: var(--text, #997063);
+    text-align: left;
+    font-family: "Inter-Black", sans-serif;
+    font-size: 32px;
+    font-weight: 900;
+    position: absolute;
+    right: -48.89%;
+    left: 0%;
+    width: 148.89%;
+    bottom: 0%;
+    top: 0%;
+    height: 100%;
+    text-decoration: none;
+}
+
+.home2 {
+    width: 90px;
+    height: 39px;
+    position: absolute;
+    left: 446px;
+    top: 49px;
+}
+
+.home3 {
+    color: #997063;
+    text-align: left;
+    font-family: "Inter-Black", sans-serif;
+    font-size: 32px;
+    font-weight: 900;
+    position: absolute;
+    right: -4.44%;
+    left: 0%;
+    width: 104.44%;
+    bottom: 0%;
+    top: 0%;
+    height: 100%;
+    text-decoration: none;
+}
+
+.noto-hamburger {
+    width: 100%;
+    height: auto;
+    max-width: 112px;
+    /* Adjust this value as needed */
+    max-height: 108px;
+    /* Adjust this value as needed */
+}
+
+.navbar2 {
+    width: 1924px;
+    height: 308px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+.frame-12 {
+    width: 1882px;
+    height: 280px;
+    position: absolute;
+    left: 31px;
+    top: 28px;
+    overflow: hidden;
+}
+
+.vector18 {
+    height: auto;
+    position: absolute;
+    right: 3.97%;
+    left: 89.83%;
+    width: 6.2%;
+    bottom: 25.53%;
+    top: 23.4%;
+    height: 51.06%;
+    overflow: visible;
+}
+
+.group2 {
+    height: auto;
+    position: absolute;
+    right: 36.67%;
+    left: 36.67%;
+    width: 26.67%;
+    bottom: 0%;
+    top: 15.38%;
+    height: 84.62%;
+    overflow: visible;
+}
+
+.fuverite2 {
+    width: 90px;
+    height: 39px;
+    position: absolute;
+    left: 1592px;
+    top: 64px;
+    overflow: visible;
+}
+
+.noto-hamburger2 {
+    width: 112px;
+    height: 108px;
+    position: absolute;
+    left: 0px;
+    top: 12px;
+    overflow: visible;
+}
+
+.rectangle-12 {
+    background: #e4cbcb;
+    width: 1913px;
+    height: 94px;
+    position: absolute;
+    left: 0px;
+    top: 214px;
+}
+
+.rectangle-13 {
+    background: #e4cbcb;
+    width: 1913px;
+    height: 94px;
+    position: absolute;
+    left: 0px;
+    top: 214px;
+}
+
+.group-1 {
+    height: auto;
+    position: absolute;
+    left: 266px;
+    top: 395px;
+    overflow: visible;
+}
+
+.blob-3 {
+    width: 773px;
+    height: 829px;
+    position: absolute;
+    left: 39px;
+    top: 2132px;
+    overflow: visible;
+}
+
+.blob-4 {
+    width: 773px;
+    height: 829px;
+    position: absolute;
+    left: 1089px;
+    top: 2331px;
+    overflow: visible;
+}
+
+.blob-5 {
+    width: 545px;
+    height: 575px;
+    position: absolute;
+    left: 934.01px;
+    top: 2560px;
+    overflow: visible;
+}
+
+.rectangle-10 {
+    background: var(--mark, #efdc33);
+    width: 1913px;
+    height: 44px;
+    position: absolute;
+    left: 0px;
+    top: 2351px;
+}
+
+.rectangle-14 {
+    background: var(--mark, #efdc33);
+    width: 1913px;
+    height: 44px;
+    position: absolute;
+    left: 0px;
+    top: 2351px;
+}
+
+.copyright-2010-2024-burger-king-company-s-l-all-rights-reserved {
+    color: #000000;
+    text-align: left;
+    font-family: "Inter-Black", sans-serif;
+    font-size: 10px;
+    font-weight: 900;
+    position: absolute;
+    left: 815px;
+    top: 2361px;
+    width: 386px;
+    height: 24px;
+}
+
+.rectangle-11 {
+    background: rgba(217, 217, 217, 0.5);
+    width: 1918px;
+    height: 436px;
+    position: absolute;
+    left: 0px;
+    top: 1915px;
+}
+
+.rectangle-15 {
+    background: rgba(217, 217, 217, 0.5);
+    width: 1918px;
+    height: 436px;
+    position: absolute;
+    left: 5px;
+    top: 1915px;
+}
+
+.text {
+    color: #000000;
+    text-align: left;
+    font-family: "Inter-Black", sans-serif;
+    font-size: 20px;
+    font-weight: 900;
+    position: absolute;
+    left: 235px;
+    top: 1967px;
+    width: 336px;
+    height: 314px;
+}
+
+.burger-king-company-contact-burger-king-1-burger-king-kh-burger-king-burger-king {
+    color: rgba(0, 0, 0, 0.77);
+    text-align: left;
+    font-family: "Inter-Black", sans-serif;
+    font-size: 20px;
+    font-weight: 900;
+    position: absolute;
+    left: 235px;
+    top: 1967px;
+    width: 336px;
+    height: 314px;
+}
+
+.burger-king-company-contact-burger-king-1-burger-king-kh-burger-king-burger-king2 {
+    color: #000000;
+    text-align: left;
+    font-family: "Inter-Black", sans-serif;
+    font-size: 20px;
+    font-weight: 900;
+    position: absolute;
+    left: 902px;
+    top: 1976px;
+    width: 336px;
+    height: 314px;
+}
+
+.about-user-report-help-contact-by-8550980800 {
+    color: rgba(0, 0, 0, 0.77);
+    text-align: left;
+    font-family: "Inter-Black", sans-serif;
+    font-size: 20px;
+    font-weight: 900;
+    position: absolute;
+    left: 1557px;
+    top: 1975px;
+    width: 336px;
+    height: 314px;
+}
+
+.bi-facebook {
+    width: 16px;
+    height: 16px;
+    position: absolute;
+    left: 491px;
+    top: 2081px;
+    overflow: hidden;
+}
+
+.vector48 {
+    height: auto;
+    position: absolute;
+    right: 86.77%;
+    left: 11.76%;
+    width: 1.46%;
+    bottom: 14.74%;
+    top: 84.09%;
+    height: 1.17%;
+    overflow: visible;
+}
+
+.mdi-youtube {
+    width: 43px;
+    height: 42px;
+    position: absolute;
+    left: 217px;
+    top: 2055px;
+    overflow: visible;
+}
+
+.formkit-twitter {
+    width: 35px;
+    height: 33px;
+    position: absolute;
+    left: 221px;
+    top: 2106px;
+    overflow: visible;
+}
+
+.ic-baseline-telegram {
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    left: 551px;
+    top: 2112px;
+    overflow: hidden;
+}
+
+.vector51 {
+    height: auto;
+    position: absolute;
+    right: 86.62%;
+    left: 11.55%;
+    width: 1.83%;
+    bottom: 8.6%;
+    top: 89.94%;
+    height: 1.46%;
+    overflow: visible;
+}
+
+.rectangle-20 {
+    background: #d9d9d9;
+    width: 1915px;
+    height: 105px;
+    position: absolute;
+    left: -2px;
+    top: 340px;
+}
+
+.rectangle-21 {
+    background: #d9d9d9;
+    width: 1915px;
+    height: 105px;
+    position: absolute;
+    left: -2px;
+    top: 500px;
+}
+
+.rectangle-22 {
+    background: #d9d9d9;
+    width: 1915px;
+    height: 105px;
+    position: absolute;
+    left: -2px;
+    top: 660px;
+}
+
+.frame-3 {
+    width: 1911px;
+    height: 1607px;
+    position: absolute;
+    left: 0px;
+    top: 214px;
+    overflow: hidden;
+}
+
+.streamline-transfer-motorcycle {
+    width: 14px;
+    height: 14px;
+    position: absolute;
+    left: 0px;
+    top: 346px;
+    overflow: hidden;
+}
+
+.group3 {
+    height: auto;
+    position: absolute;
+    right: 4.12%;
+    left: 3.57%;
+    width: 92.31%;
+    bottom: 3.57%;
+    top: 25%;
+    height: 71.43%;
+    overflow: visible;
+}
+
+.group4 {
+    height: auto;
+    position: absolute;
+    right: 4.12%;
+    left: 3.57%;
+    width: 92.31%;
+    bottom: 3.57%;
+    top: 25%;
+    height: 71.43%;
+    overflow: visible;
+}
+
+.delivery-location {
+    color: var(--text, #997063);
+    text-align: left;
+    font-family: "Inter-Black", sans-serif;
+    font-size: 40px;
+    font-weight: 900;
+    position: absolute;
+    left: 660px;
+    top: 8px;
+    width: 671px;
+    height: 86px;
+}
+
+.your-address-results-for-khan-tuol-kork-phnom-pen {
+    color: var(--text, #997063);
+    text-align: left;
+    font-family: "Inter-Black", sans-serif;
+    font-size: 40px;
+    font-weight: 900;
+    position: absolute;
+    left: 107px;
+    top: 668px;
+    width: 728px;
+    height: 198px;
+}
+
+.deliver-fee-0-60 {
+    color: var(--text, #997063);
+    text-align: left;
+    font-family: "Inter-Black", sans-serif;
+    font-size: 40px;
+    font-weight: 900;
+    position: absolute;
+    left: 123px;
+    top: 879px;
+    width: 1671px;
+    height: 105px;
+}
+
+.total-price-59-94 {
+    color: var(--text, #997063);
+    text-align: left;
+    font-family: "Inter-Black", sans-serif;
+    font-size: 40px;
+    font-weight: 900;
+    position: absolute;
+    left: 125px;
+    top: 1161px;
+    width: 1671px;
+    height: 105px;
+}
+
+.burger-beef-x-4-9-99-burger-chicken-spicy-x-2-9-99 {
+    color: var(--text, #997063);
+    text-align: left;
+    font-family: "Inter-Black", sans-serif;
+    font-size: 40px;
+    font-weight: 900;
+    position: absolute;
+    left: 129px;
+    top: 997px;
+    width: 1671px;
+    height: 105px;
+}
+
+.back {
+    color: var(--text, #997063);
+    text-align: left;
+    font-family: "Inter-Black", sans-serif;
+    font-size: 40px;
+    font-weight: 900;
+    position: absolute;
+    left: 14px;
+    top: 16px;
+    width: 205px;
+    height: 86px;
+}
+
+.burger-beef-spicy {
+    color: var(--text, #997063);
+    text-align: left;
+    font-family: "Inter-Black", sans-serif;
+    font-size: 40px;
+    font-weight: 900;
+    position: absolute;
+    left: 301px;
+    top: 135px;
+    width: 671px;
+    height: 86px;
+}
+
+.burger-chicken-spicy {
+    color: var(--text, #997063);
+    text-align: left;
+    font-family: "Inter-Black", sans-serif;
+    font-size: 40px;
+    font-weight: 900;
+    position: absolute;
+    left: 301px;
+    top: 304px;
+    width: 671px;
+    height: 86px;
+}
+
+.noto-hamburger4 {
+    width: 112px;
+    height: 108px;
+    position: absolute;
+    left: 70px;
+    top: 252px;
+    overflow: visible;
+}
+
+.noto-hamburger5 {
+    width: 112px;
+    height: 108px;
+    position: absolute;
+    left: 77px;
+    top: 412px;
+    overflow: visible;
+}
+
+.burger-beef {
+    color: var(--text, #997063);
+    text-align: left;
+    font-family: "Inter-Black", sans-serif;
+    font-size: 40px;
+    font-weight: 900;
+    position: absolute;
+    left: 301px;
+    top: 462px;
+    width: 671px;
+    height: 86px;
+}
+
+.noto-hamburger6 {
+    height: auto;
+    position: absolute;
+    right: 90.48%;
+    left: 3.66%;
+    width: 5.86%;
+    bottom: 87.43%;
+    top: 5.85%;
+    height: 6.72%;
+    overflow: visible;
+}
+
+.group-20 {
+    position: absolute;
+    inset: 0;
+}
+
+.group-19 {
+    width: 195px;
+    height: 44px;
+    position: static;
+}
+
+.div {
+    color: #f80000;
+    text-align: center;
+    font-family: "Inter-Black", sans-serif;
+    font-size: 40px;
+    font-weight: 900;
+    position: absolute;
+    left: 1087px;
+    top: 158px;
+    width: 49px;
+    height: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.div2 {
+    color: #47d16d;
+    text-align: center;
+    font-family: "Inter-Black", sans-serif;
+    font-size: 40px;
+    font-weight: 900;
+    position: absolute;
+    left: 1233px;
+    top: 159px;
+    width: 49px;
+    height: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.x-1 {
+    color: #000000;
+    text-align: left;
+    font-family: "Inter-Black", sans-serif;
+    font-size: 40px;
+    font-weight: 900;
+    position: absolute;
+    left: 1162px;
+    top: 150px;
+    width: 60px;
+    height: 41px;
+}
+
+.group-21 {
+    position: absolute;
+    inset: 0;
+}
+
+.div3 {
+    color: #f80000;
+    text-align: center;
+    font-family: "Inter-Black", sans-serif;
+    font-size: 40px;
+    font-weight: 900;
+    position: absolute;
+    left: 1080px;
+    top: 313px;
+    width: 49px;
+    height: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.div4 {
+    color: #47d16d;
+    text-align: center;
+    font-family: "Inter-Black", sans-serif;
+    font-size: 40px;
+    font-weight: 900;
+    position: absolute;
+    left: 1226px;
+    top: 314px;
+    width: 49px;
+    height: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.x-2 {
+    color: #000000;
+    text-align: left;
+    font-family: "Inter-Black", sans-serif;
+    font-size: 40px;
+    font-weight: 900;
+    position: absolute;
+    left: 1155px;
+    top: 305px;
+    width: 60px;
+    height: 41px;
+}
+
+.group-22 {
+    position: absolute;
+    inset: 0;
+}
+
+.div5 {
+    color: #f80000;
+    text-align: center;
+    font-family: "Inter-Black", sans-serif;
+    font-size: 40px;
+    font-weight: 900;
+    position: absolute;
+    left: 1067px;
+    top: 480px;
+    width: 49px;
+    height: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.div6 {
+    color: #47d16d;
+    text-align: center;
+    font-family: "Inter-Black", sans-serif;
+    font-size: 40px;
+    font-weight: 900;
+    position: absolute;
+    left: 1213px;
+    top: 481px;
+    width: 49px;
+    height: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.x-3 {
+    color: #000000;
+    text-align: left;
+    font-family: "Inter-Black", sans-serif;
+    font-size: 40px;
+    font-weight: 900;
+    position: absolute;
+    left: 1142px;
+    top: 472px;
+    width: 60px;
+    height: 41px;
+}
+
+.component-3 {
+    width: 174px;
+    height: 51px;
+    position: absolute;
+    left: 1692px;
+    top: 147px;
+}
+
+.rectangle-25 {
+    background: #81f099;
+    border-radius: 20px;
+    position: absolute;
+    right: 0%;
+    left: 0%;
+    width: 100%;
+    bottom: 0%;
+    top: 0%;
+    height: 100%;
+}
+
+.buy {
+    color: var(--text, #997063);
+    text-align: left;
+    font-family: "Inter-Black", sans-serif;
+    font-size: 30px;
+    font-weight: 900;
+    position: absolute;
+    right: 5.17%;
+    left: 29.89%;
+    width: 64.94%;
+    top: calc(50% - 12.5px);
+    height: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.component-5 {
+    width: 174px;
+    height: 51px;
+    position: absolute;
+    left: 1696px;
+    top: 319px;
+}
+
+.component-6 {
+    width: 174px;
+    height: 51px;
+    position: absolute;
+    left: 1696px;
+    top: 468px;
+}
+
+.group-25 {
+    width: 174px;
+    height: 51px;
+    position: absolute;
+    left: 1455px;
+    top: 147px;
+}
+
+.rectangle-23 {
+    background: #fd9e9e;
+    border-radius: 20px;
+    position: absolute;
+    right: 0%;
+    left: 0%;
+    width: 100%;
+    bottom: 0%;
+    top: 0%;
+    height: 100%;
+}
+
+.cancel {
+    color: var(--text, #997063);
+    text-align: left;
+    font-family: "Inter-Black", sans-serif;
+    font-size: 30px;
+    font-weight: 900;
+    position: absolute;
+    right: 10.92%;
+    left: 24.14%;
+    width: 64.94%;
+    top: calc(50% - 12.5px);
+    height: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.group-27 {
+    width: 174px;
+    height: 51px;
+    position: absolute;
+    left: 1455px;
+    top: 319px;
+}
+
+.group-28 {
+    width: 174px;
+    height: 51px;
+    position: absolute;
+    left: 1453px;
+    top: 468px;
+}
+
+.component-4 {
+    width: 174px;
+    height: 51px;
+    position: absolute;
+    left: 1632px;
+    top: 1364px;
+}
+
+.buy-all {
+    color: var(--text, #997063);
+    text-align: left;
+    font-family: "Inter-Black", sans-serif;
+    font-size: 30px;
+    font-weight: 900;
+    position: absolute;
+    right: 8.62%;
+    left: 21.26%;
+    width: 70.11%;
+    top: calc(50% - 12.5px);
+    height: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.group-26 {
+    width: 174px;
+    height: 51px;
+    position: absolute;
+    left: 1380px;
+    top: 1364px;
+}
+
+.clear {
+    color: var(--text, #997063);
+    text-align: left;
+    font-family: "Inter-Black", sans-serif;
+    font-size: 30px;
+    font-weight: 900;
+    position: absolute;
+    right: 10.92%;
+    left: 24.14%;
+    width: 64.94%;
+    top: calc(50% - 12.5px);
+    height: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.line-1 {
+    border-style: solid;
+    border-color: #000000;
+    border-width: 1px 0 0 0;
+    width: 1911px;
+    height: 0px;
+    position: absolute;
+    left: 0px;
+    top: 850px;
+}
+
+.line-2 {
+    border-style: solid;
+    border-color: #000000;
+    border-width: 1px 0 0 0;
+    width: 1911px;
+    height: 0px;
+    position: absolute;
+    left: 0px;
+    top: 984px;
+}
+
+.line-3 {
+    border-style: solid;
+    border-color: #000000;
+    border-width: 1px 0 0 0;
+    width: 1911px;
+    height: 0px;
+    position: absolute;
+    left: 0px;
+    top: 1139px;
+}
